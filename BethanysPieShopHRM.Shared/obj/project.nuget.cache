@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LmTpKgrv/31tgHgVP/qb+AtQ/+d+r3JcwTz+P9p75qBlI9lh6MXQ6l/3ldi9EW05XwW8rSpPWhECJw9KalvBPA==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\00772538\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\00772538\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
